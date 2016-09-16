@@ -1,0 +1,3 @@
+Front End - Attila Mikus
+Database - Dorka Antal
+Back End - Tamás Szabó
